@@ -1,0 +1,1 @@
+SELECT t-shirt FROM produit
